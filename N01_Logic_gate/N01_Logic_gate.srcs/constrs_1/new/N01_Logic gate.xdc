@@ -1,7 +1,0 @@
-set_property PACKAGE_PIN Y1 [get_ports {a[1]}]
-set_property PACKAGE_PIN W3 [get_ports {a[0]}]
-set_property PACKAGE_PIN L4 [get_ports v]
-set_property PACKAGE_PIN M4 [get_ports w]
-set_property PACKAGE_PIN M2 [get_ports x]
-set_property PACKAGE_PIN N7 [get_ports y]
-set_property PACKAGE_PIN M7 [get_ports z]
